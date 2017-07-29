@@ -3,6 +3,7 @@
 A form to create a simple and no complicate webservice in minutes 
 
 ### Requeriments?: ###
+Flight requires PHP 5.3 or greater.
 
 ### Features ###
 
